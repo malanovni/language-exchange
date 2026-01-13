@@ -1,7 +1,7 @@
 {
   "name": "copy-of-language-exchange",
   "private": true,
-  "homepage": "https://malanovni.github.io/", 
+  "homepage": "https://malanovni.github.io/language-exchange/", 
   "version": "0.0.0",
   "type": "module",
   "scripts": {
